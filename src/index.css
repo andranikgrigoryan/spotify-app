@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+body {
+  background: black
+  /* background-image: url('./images/backImg.png');
+  background-repeat: no-repeat, repeat;
+  background-position: center;
+  min-height: 100vh;
+  background-size: cover; */
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
